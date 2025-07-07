@@ -11,7 +11,7 @@
 		"Model"	"models/heroes/gyro/gyro.vmdl"
 		"ModelScale"	"1"
 		"DisableWearables"	"0"
-		"Ability1"	"爆炸火花"
+		"Ability1"	""
 		"Ability2"	""
 		"Ability3"	""
 		"Ability4"	""
